@@ -1,0 +1,139 @@
+
+.cls1{
+    height:900px;
+    width: 20%;
+    background-color:rgba(8, 14, 43, 0.961);
+    float:left;
+    margin-left: 207px;
+    border: 1px solid black;
+    border-right: none;
+}
+
+#four{
+   background-image: url("resume pic 1234.jpg");
+   border-radius: 50%;
+   height:180px;
+   width:14.4%;
+   background-position: -1px;
+   background-size: cover;
+   margin-left: -83.5%;
+   margin-top: 5px;
+}
+
+.cls2{
+    width:49%;
+    height:900px;
+    background-color: white;
+    border:1px solid black;
+    margin-top: -189px;
+    margin-left: 22.2%;
+    border-left: none;  
+}
+   
+#one{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.2WYrgDEaAQoB19kFX8vO5QHaHa&pid=Api&P=0&h=180);
+   border-radius: 50%;
+   height:25px;
+   width:25px;
+   background-position: 25px;
+   background-size: cover;
+   margin-left: -240px;
+   list-style-type: none;
+   margin-top: 20px;
+   font-size: small;
+   list-style-position: outside; 
+}
+#two{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.ja6DdG_Dce0CMoNqbmDeRAHaHa&pid=Api&P=0&h=180);
+   border-radius: 50%;
+   height:25px;
+   width:25px;
+   background-position: 25px;
+   background-size: cover;
+   margin-left: -240px;
+   list-style-type: none;
+   font-size: small;
+}
+#three{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.YbwDouSCNVUI-eCKMVz4fAHaHj&pid=Api&P=0&h=180);
+   border-radius: 50%;
+   height:25px;
+   width:25px;
+   background-position: 25px;
+   background-size: cover;
+   margin-left: -240px;
+   list-style-type: none;
+   font-size: small;  
+}
+.cl{
+     text-align:left;
+     margin-top: -135px;
+     list-style-type: none;
+     line-height: 42px;
+     color: white;
+}
+.c1{
+    margin-top: -10px;
+     text-align: left;
+     line-height: 19px;
+     margin-left: 0px;
+     color: white;
+}
+
+h2,h3{
+    margin-top: 20px;
+    margin-left: -140px;
+    font-size: medium;
+}
+
+h1{
+    font-size:larger;
+    margin-top: 220px;
+}
+h4{
+    text-align: left;
+    margin-left: 10px; 
+}
+
+p{
+    font-size: 14px;
+    line-height: 23px;
+    margin-left: 20px;
+    text-align: left;
+    text-align: justify;
+    margin-right: 30px;
+}
+
+#t{
+    text-align: left;
+    margin-top: -25px;
+    font-size:14px;
+    
+}
+
+hr{
+    width:170px;
+    float:left;
+    border: 1px solid rgba(14, 20, 56, 0.865);
+    margin-top:-2px;
+    margin-left: 18px;
+}
+
+#n{
+   margin-top: 40px;
+   text-align: left;
+   margin-left: 20px;
+   font-size: medium; 
+}
+
+#s{
+    margin-left: -90px;
+}
+
+#s1{
+    line-height: 30px;
+    margin-top: -9px;
+}
+
+
+
