@@ -1,0 +1,149 @@
+*{
+    background-attachment: fixed;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+:hover{
+  #a:hover{
+   color: rgb(25, 127, 243);
+  }
+}
+#header{
+margin-top: -14px;
+height:65px;
+width:100%;
+border-bottom: 1px solid rgb(79, 77, 77);
+}
+#div1{
+height:50px;
+width:8.2%;
+border: 1px solid rgb(219, 217, 217);
+float: left;
+border-left: none;
+border-right: none;
+border-bottom: none;
+margin-left: 3%;
+margin-top: 3px;
+}
+
+
+#a{
+text-decoration: none;
+ color: black;
+ min-height: 60px;
+ line-height: 60px;
+ margin-left: 15px;
+ font-size: 14px;
+ font-weight:#686868;
+ font-family:sans-serif;
+ font-stretch: expanded;
+ margin-right: -100px;
+ float: right;
+}
+.class1{
+margin-left:3% ;
+font-size: 13px;
+}
+#id2{
+font-size: 12px;
+margin-right: 53%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 17px;
+}
+#id3{
+height:46px;
+width:35%;
+border: 1px solid black;
+border-radius: 5px;
+outline-width: 0px;
+}
+#img1{
+height:32px;
+width:84%;
+padding: 5px;
+margin-top: 15px;
+margin-left: 5%;
+}
+#img2{
+height:50px;
+width:50px;
+margin-top: 7px;
+float: right;
+margin-right: 80px;
+}
+#img3{
+margin-left: 11%;height:55px;width:7%;margin-top: 8px;
+}
+#btn1{
+height:34px;
+width:8%;
+background-color: rgb(53, 111, 236);
+border: 1px solid black;
+border-radius: 20px;
+margin-left: 3%;
+margin-top: 15px;
+}
+#a1{
+color: white;
+text-decoration: none;
+}
+#div2{
+height:580px;
+width:32%;
+border: 1px solid rgb(147, 147, 147);
+float: right;
+margin-top: -237px;
+border-top: none;
+}
+#h5{
+margin-left: 11%;
+margin-top: 40px;
+}
+#hr{
+width:75%;
+margin-left: 11%;
+margin-right: 0%;
+margin-top: -7px;
+}
+#p2{
+margin-top: -39px;
+margin-left: 22%;
+}
+#p3{
+font-size: 11px;
+margin-left: 11%;
+margin-top: 30px;
+}
+#m{
+border: none;
+margin-left: 11%;
+}
+#hr2{
+width:75%;
+margin-left: 11%;
+margin-right: 0%;
+margin-top: 20px;
+}
+#p4{
+margin-left: 11%;
+font-size: 13px;
+line-height: 30px;
+}
+#p5{
+margin-right: 13%;
+font-size: 13px;
+line-height: 30px;
+margin-top: -40px;
+float: right;
+}
+#h6{
+margin-left: 11%;
+}
+#p6{
+margin-right: 13%;
+font-size: 13px;
+line-height: 30px;
+margin-top: -40px;
+float: right;
+}
+
